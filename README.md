@@ -6,7 +6,7 @@
 
 *"With you our gathering is better"*
 
-![Main Hall](aa34.png)
+![Main Entrance](aa34.png)
 
 ---
 
@@ -17,72 +17,75 @@ It features multiple rooms, interactive mini-games, a cinema, an arcade, a music
 
 ---
 
+## 🏠 Main Lobby
+
+The lobby features the جمعتنا logo, a Floating items store, a portal room selector, and a Find Your Friends panel.
+
+![Main Lobby](aax.png)
+
+---
+
+## 🚪 Portal Room — Choose Your Hangout
+
+Players teleport between multiple themed rooms via a card-based portal selection system.
+
+![Portal Selection](aaqa.png)
+
+---
+
 ## 🎮 Mini-Games
 
 ### 🕵️ أنت برا السالفة — You're Off Topic
-Players discuss a shared topic while one player secretly gets a different topic — everyone tries to identify who is "off topic."
+A random topic appears for all players — one player secretly gets a different topic. Everyone asks each other questions to find out who is "off topic."
 
-![Off Topic Game](aaaaa.png)
+![Off Topic Gameplay](aaqe.png)
 
-![Off Topic Screen](aaqe.png)
+![Off Topic Screen](aaaaa.png)
 
 ---
 
 ### 🎯 صراحة أو جراءة — Truth or Dare
-Interactive Truth or Dare with bilingual questions displayed on screen.
+Press the blue button for Truth, purple for Dare. Bilingual questions appear on the main screen.
 
 ![Truth or Dare](aaaaaaaa3.png)
 
 ---
 
 ### 🏷️ خمن الشعار الحقيقي — Guess the Real Logo
-Spot the difference between real and fake brand logos before time runs out.
+Spot the real logo versus the fake one before the timer runs out. Points system tracks scores across rounds.
 
 ![Guess the Logo](aa.png)
 
 ---
 
 ### 🕹️ Arcade Room
-Classic arcade machines playable inside VRChat — including Flappy Hat and other games.
+Classic arcade machines playable inside VRChat.
 
 ![Arcade](aaaas.png)
 
 ---
 
-## 🏠 World Spaces
+## 🎬 Cinema Room
 
-### 🎬 Cinema Room
-A cozy cinema room where players can watch videos together using a shared video player.
+A cozy cinema where players watch videos together using a shared video player.
 
 ![Cinema](aaaax.png)
 
 ---
 
-### 🎵 Music Lounge
-A relaxing lounge with a record player and shared video stream where players can play music together.
+## 🎵 Music Lounge
+
+A relaxing lounge with a record player and shared video stream.
 
 ![Music Lounge](aaaf.png)
 
 ---
 
-### 🛒 Store System
-An in-world store ("متجر جمعتنا") where players can browse and own floating items and VIP perks.
+## 🛒 Store System — متجر جمعتنا
+
+Players can browse and own floating items and VIP perks directly inside the world.
 
 ![Store](a2w.png)
-
----
-
-### 🚪 Portal Room — Choose Your Hangout
-Players can teleport between multiple themed rooms via a portal selection system.
-
-![Portal Room](aaqa.png)
-
----
-
-### 🔍 Find Your Friends
-A built-in system to locate and show players within the world — with a "Hide me" option for privacy.
-
-![Main Lobby](aax.png)
 
 ---
 
